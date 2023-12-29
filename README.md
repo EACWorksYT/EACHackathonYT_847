@@ -13,4 +13,4 @@ My idea to make Card Maker on the Website it's:
 5. Add a text, choose text color and font style
 6. If the Card project has finished, could save the project to computer.
 
-   
+The connection is The theme for creating digital cards is free. So you can make anything.
