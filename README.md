@@ -6,11 +6,8 @@ So I will make Card Maker like Birthday Card, Christmas Card and else.
 
 ### MY PROJECT IDEA
 My idea to make Card Maker on the Website it's:
-1. Sign in with Google / Microsoft
-2. Home page + New project button
-3. Choose Background Color
-4. Insert an image file from computer (Like Birthday Cake, etc)
-5. Add a text, choose text color and font style
-6. If the Card project has finished, could save the project to computer.
+1. Choose an image with the theme that user wanted.
+2. Add a text, choose text color and font style
+3. If the Card project has finished, take a screenshot.
 
 The connection is The theme for creating digital cards is free. So you can make anything.
